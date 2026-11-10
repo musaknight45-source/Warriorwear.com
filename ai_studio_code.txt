@@ -1,5 +1,0 @@
-warriorwears-hosting-files.zip
-├── index.html                   (SEO-optimized production HTML with meta tags)
-└── assets/
-    ├── index-Cf7HAC3l.js        (Minified React & store application bundle)
-    └── index-D4jonl5n.css       (Tailwind CSS luxury styling & responsive layout)
